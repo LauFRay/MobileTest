@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jzSZTWEF1TM5yQGSzCSxVO4XhGAJly03N5iYQYbUIJGSxU5EqN/9BSxCRKnO3oaFbMdmZRl7SZlWHh34I0Ojhw==",
+  "dgSpecHash": "L1tcp6j+0DiwsUH2BHXJJDz5oDCTELY/q39K0wetaSNhXauBOQ6QQVfG2IDGnqIQdNnDMWBwTTJF9mkGHVW6gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.UWP\\Test.UWP.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.UWP\\Test.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",

@@ -2149,11 +2149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.Android\\Test.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.Android\\Test.Android.csproj",
       "projectName": "Test.Android",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.Android\\Test.Android.csproj",
+      "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.Android\\Test.Android.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.Android\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2176,8 +2176,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\Test.csproj": {
-              "projectPath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\Test.csproj"
+            "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\Test.csproj": {
+              "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\Test.csproj"
             }
           }
         }

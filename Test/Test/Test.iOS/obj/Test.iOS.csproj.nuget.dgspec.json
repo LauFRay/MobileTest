@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.iOS\\Test.iOS.csproj": {}
+    "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.iOS\\Test.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.iOS\\Test.iOS.csproj": {
+    "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.iOS\\Test.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.iOS\\Test.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.iOS\\Test.iOS.csproj",
         "projectName": "Test.iOS",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.iOS\\Test.iOS.csproj",
+        "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.iOS\\Test.iOS.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.iOS\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\Test.csproj": {
-                "projectPath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\Test.csproj"
+              "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\Test.csproj": {
+                "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\Test.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\Test.csproj": {
+    "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

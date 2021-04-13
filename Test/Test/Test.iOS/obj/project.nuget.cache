@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g6m61vbccpc3IoWUobcoFOj07NsNlW7uQuG0t/lglwjpVHWjD+00bXQCY6iv5yJpJcEdmUJtAeQu5h5D5R8+tg==",
+  "dgSpecHash": "kNq6kArvvI95JELVafB4P0j6LQeB/dIErnPt4gCKy1rmnUe1Gw0bilvo/4hcHMACiNHhnr8Sksd+/Nxpg73K6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.iOS\\Test.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.iOS\\Test.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",

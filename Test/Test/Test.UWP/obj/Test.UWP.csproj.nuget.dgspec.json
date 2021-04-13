@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.UWP\\Test.UWP.csproj": {}
+    "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.UWP\\Test.UWP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.UWP\\Test.UWP.csproj": {
+    "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.UWP\\Test.UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.UWP\\Test.UWP.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.UWP\\Test.UWP.csproj",
         "projectName": "Test.UWP",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.UWP\\Test.UWP.csproj",
+        "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.UWP\\Test.UWP.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test.UWP\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test.UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -35,8 +35,8 @@
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\Test.csproj": {
-                "projectPath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\Test.csproj"
+              "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\Test.csproj": {
+                "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\Test.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\Test.csproj": {
+    "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\TEST P\\Test\\Test\\Test\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Documents\\GitHub\\MobileTest\\Test\\Test\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
