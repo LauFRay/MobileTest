@@ -1,0 +1,10 @@
+C:\Users\Acer\Documents\test\TEST_WF\TEST_WF\bin\Debug\TEST_WF.exe.config
+C:\Users\Acer\Documents\test\TEST_WF\TEST_WF\bin\Debug\TEST_WF.exe
+C:\Users\Acer\Documents\test\TEST_WF\TEST_WF\bin\Debug\TEST_WF.pdb
+C:\Users\Acer\Documents\test\TEST_WF\TEST_WF\obj\Debug\TEST_WF.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\test\TEST_WF\TEST_WF\obj\Debug\TEST_WF.Form1.resources
+C:\Users\Acer\Documents\test\TEST_WF\TEST_WF\obj\Debug\TEST_WF.Properties.Resources.resources
+C:\Users\Acer\Documents\test\TEST_WF\TEST_WF\obj\Debug\TEST_WF.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\test\TEST_WF\TEST_WF\obj\Debug\TEST_WF.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\test\TEST_WF\TEST_WF\obj\Debug\TEST_WF.exe
+C:\Users\Acer\Documents\test\TEST_WF\TEST_WF\obj\Debug\TEST_WF.pdb
